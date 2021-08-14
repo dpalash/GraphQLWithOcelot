@@ -1,0 +1,328 @@
+2021-03-04 13:11:57.391 +06:00 [INF] User profile is available. Using 'C:\Users\cefalo\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-03-04 13:11:57.734 +06:00 [INF] Request starting HTTP/1.1 GET https://localhost:44318/api/graphQl/graph/hello  0
+2021-03-04 13:11:58.006 +06:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2021-03-04 13:11:58.007 +06:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2021-03-04 13:11:58.009 +06:00 [INF] HTTP GET /api/graphQl/graph/hello responded 405 in 2.8520 ms
+2021-03-04 13:11:58.037 +06:00 [INF] Request finished in 306.7814ms 405 
+2021-03-04 13:14:37.117 +06:00 [INF] User profile is available. Using 'C:\Users\cefalo\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-03-04 13:14:37.347 +06:00 [INF] Request starting HTTP/1.1 GET https://localhost:44318/api/graphQl/graph  0
+2021-03-04 13:14:37.553 +06:00 [INF] HTTP GET /api/graphQl/graph responded 301 in 66.4306 ms
+2021-03-04 13:14:37.589 +06:00 [INF] Request finished in 244.5391ms 301 
+2021-03-04 13:14:37.676 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44318/api/graphQl/graph/  
+2021-03-04 13:14:37.701 +06:00 [INF] Sending file. Request path: '/index.html'. Physical path: 'N/A'
+2021-03-04 13:14:37.701 +06:00 [INF] HTTP GET /api/graphQl/graph/ responded 200 in 23.2424 ms
+2021-03-04 13:14:37.702 +06:00 [INF] Request finished in 26.038ms 200 text/html
+2021-03-04 13:14:37.759 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44318/api/graphQl/graph/graphiql.css  
+2021-03-04 13:14:37.774 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44318/api/graphQl/graph/es6-promise/es6-promise.min.js  
+2021-03-04 13:14:37.804 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44318/api/graphQl/graph/react/react.min.js  
+2021-03-04 13:14:37.805 +06:00 [INF] Sending file. Request path: '/es6-promise/es6-promise.min.js'. Physical path: 'N/A'
+2021-03-04 13:14:37.805 +06:00 [INF] Sending file. Request path: '/graphiql.css'. Physical path: 'N/A'
+2021-03-04 13:14:37.805 +06:00 [INF] Sending file. Request path: '/react/react.min.js'. Physical path: 'N/A'
+2021-03-04 13:14:37.806 +06:00 [INF] HTTP GET /api/graphQl/graph/es6-promise/es6-promise.min.js responded 200 in 1.9483 ms
+2021-03-04 13:14:37.806 +06:00 [INF] HTTP GET /api/graphQl/graph/graphiql.css responded 200 in 45.5214 ms
+2021-03-04 13:14:37.806 +06:00 [INF] HTTP GET /api/graphQl/graph/react/react.min.js responded 200 in 1.5735 ms
+2021-03-04 13:14:37.806 +06:00 [INF] Request finished in 31.7526ms 200 application/javascript
+2021-03-04 13:14:37.807 +06:00 [INF] Request finished in 3.0184ms 200 application/javascript
+2021-03-04 13:14:37.809 +06:00 [INF] Request finished in 49.6485ms 200 text/css
+2021-03-04 13:14:37.813 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44318/api/graphQl/graph/react/react-dom.min.js  
+2021-03-04 13:14:37.814 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44318/api/graphQl/graph/graphiql.min.js  
+2021-03-04 13:14:37.815 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44318/api/graphQl/graph/graphql-path.js  
+2021-03-04 13:14:37.822 +06:00 [INF] HTTP GET /api/graphQl/graph/graphql-path.js responded 200 in 6.1239 ms
+2021-03-04 13:14:37.825 +06:00 [INF] Request finished in 10.007ms 200 application/javascript
+2021-03-04 13:14:37.842 +06:00 [INF] Sending file. Request path: '/react/react-dom.min.js'. Physical path: 'N/A'
+2021-03-04 13:14:37.850 +06:00 [INF] HTTP GET /api/graphQl/graph/react/react-dom.min.js responded 200 in 36.1675 ms
+2021-03-04 13:14:37.855 +06:00 [INF] Sending file. Request path: '/graphiql.min.js'. Physical path: 'N/A'
+2021-03-04 13:14:37.855 +06:00 [INF] HTTP GET /api/graphQl/graph/graphiql.min.js responded 200 in 40.3000 ms
+2021-03-04 13:14:37.855 +06:00 [INF] Request finished in 41.9419ms 200 application/javascript
+2021-03-04 13:14:37.855 +06:00 [INF] Request finished in 41.072ms 200 application/javascript
+2021-03-04 13:14:38.184 +06:00 [INF] Request starting HTTP/2.0 POST https://localhost:44318/graphql application/json 1765
+2021-03-04 13:14:38.188 +06:00 [INF] HTTP POST /graphql responded 404 in 1.0849 ms
+2021-03-04 13:14:38.191 +06:00 [INF] Request finished in 7.3103ms 404 
+2021-03-04 13:14:38.277 +06:00 [INF] Request starting HTTP/2.0 POST https://localhost:44318/graphql application/json 1554
+2021-03-04 13:14:38.279 +06:00 [INF] HTTP POST /graphql responded 404 in 0.2152 ms
+2021-03-04 13:14:38.280 +06:00 [INF] Request finished in 3.5404ms 404 
+2021-03-04 13:14:38.281 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44318/api/graphQl/graph/favicon.ico  
+2021-03-04 13:14:38.284 +06:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'N/A'
+2021-03-04 13:14:38.284 +06:00 [INF] HTTP GET /api/graphQl/graph/favicon.ico responded 200 in 1.9878 ms
+2021-03-04 13:14:38.285 +06:00 [INF] Request finished in 3.9637ms 200 image/x-icon
+2021-03-04 13:14:56.866 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44318/api/graphQl/graph/hello  
+2021-03-04 13:14:56.870 +06:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2021-03-04 13:14:56.870 +06:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2021-03-04 13:14:56.870 +06:00 [INF] HTTP GET /api/graphQl/graph/hello responded 405 in 1.6849 ms
+2021-03-04 13:14:56.873 +06:00 [INF] Request finished in 7.092ms 405 
+2021-03-04 13:15:01.510 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44318/api/graphQl/graph  
+2021-03-04 13:15:01.513 +06:00 [INF] HTTP GET /api/graphQl/graph responded 301 in 0.4817 ms
+2021-03-04 13:15:01.515 +06:00 [INF] Request finished in 5.2182ms 301 
+2021-03-04 13:15:01.580 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44318/api/graphQl/graph/graphql-path.js  
+2021-03-04 13:15:01.582 +06:00 [INF] HTTP GET /api/graphQl/graph/graphql-path.js responded 200 in 1.6708 ms
+2021-03-04 13:15:01.583 +06:00 [INF] Request finished in 3.0359ms 200 application/javascript
+2021-03-04 13:15:02.035 +06:00 [INF] Request starting HTTP/2.0 POST https://localhost:44318/graphql application/json 1765
+2021-03-04 13:15:02.037 +06:00 [INF] HTTP POST /graphql responded 404 in 0.4647 ms
+2021-03-04 13:15:02.039 +06:00 [INF] Request finished in 4.3845ms 404 
+2021-03-04 13:15:02.123 +06:00 [INF] Request starting HTTP/2.0 POST https://localhost:44318/graphql application/json 1554
+2021-03-04 13:15:02.124 +06:00 [INF] HTTP POST /graphql responded 404 in 0.2030 ms
+2021-03-04 13:15:02.125 +06:00 [INF] Request finished in 2.315ms 404 
+2021-03-04 13:15:07.778 +06:00 [INF] Request starting HTTP/2.0 POST https://localhost:44318/graphql application/json 889
+2021-03-04 13:15:07.780 +06:00 [INF] HTTP POST /graphql responded 404 in 0.5916 ms
+2021-03-04 13:15:07.784 +06:00 [INF] Request finished in 5.3717ms 404 
+2021-03-04 13:20:15.901 +06:00 [INF] User profile is available. Using 'C:\Users\cefalo\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-03-04 13:20:16.121 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44318/api/graphQl/graph/  
+2021-03-04 13:20:16.289 +06:00 [INF] The file /index.html was not modified
+2021-03-04 13:20:16.294 +06:00 [INF] HTTP GET /api/graphQl/graph/ responded 304 in 53.7586 ms
+2021-03-04 13:20:16.310 +06:00 [INF] Request finished in 194.1477ms 304 text/html
+2021-03-04 13:20:16.369 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44318/api/graphQl/graph/graphql-path.js  
+2021-03-04 13:20:16.384 +06:00 [INF] HTTP GET /api/graphQl/graph/graphql-path.js responded 200 in 12.3374 ms
+2021-03-04 13:20:16.387 +06:00 [INF] Request finished in 17.3641ms 200 application/javascript
+2021-03-04 13:20:18.271 +06:00 [INF] Request starting HTTP/2.0 POST https://localhost:44318/graphql application/json 1765
+2021-03-04 13:20:18.271 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44318/api/graphQl/graph/favicon.ico  
+2021-03-04 13:20:18.287 +06:00 [INF] HTTP POST /graphql responded 404 in 2.0048 ms
+2021-03-04 13:20:18.299 +06:00 [INF] Request finished in 29.2099ms 404 
+2021-03-04 13:20:18.306 +06:00 [INF] Request starting HTTP/2.0 POST https://localhost:44318/graphql application/json 1554
+2021-03-04 13:20:18.306 +06:00 [INF] HTTP POST /graphql responded 404 in 0.0614 ms
+2021-03-04 13:20:18.307 +06:00 [INF] Request finished in 1.1467ms 404 
+2021-03-04 13:20:18.307 +06:00 [INF] Sending file. Request path: '/favicon.ico'. Physical path: 'N/A'
+2021-03-04 13:20:18.308 +06:00 [INF] HTTP GET /api/graphQl/graph/favicon.ico responded 200 in 26.0503 ms
+2021-03-04 13:20:18.308 +06:00 [INF] Request finished in 38.3203ms 200 image/x-icon
+2021-03-04 13:20:26.959 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44318/api/graphQl/graph/  
+2021-03-04 13:20:26.966 +06:00 [INF] The file /index.html was not modified
+2021-03-04 13:20:26.967 +06:00 [INF] HTTP GET /api/graphQl/graph/ responded 304 in 3.5538 ms
+2021-03-04 13:20:26.972 +06:00 [INF] Request finished in 13.3047ms 304 text/html
+2021-03-04 13:20:27.019 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44318/api/graphQl/graph/graphql-path.js  
+2021-03-04 13:20:27.026 +06:00 [INF] HTTP GET /api/graphQl/graph/graphql-path.js responded 200 in 2.6734 ms
+2021-03-04 13:20:27.027 +06:00 [INF] Request finished in 9.5843ms 200 application/javascript
+2021-03-04 13:20:27.098 +06:00 [INF] Request starting HTTP/2.0 POST https://localhost:44318/graphql application/json 1765
+2021-03-04 13:20:27.099 +06:00 [INF] HTTP POST /graphql responded 404 in 0.1038 ms
+2021-03-04 13:20:27.099 +06:00 [INF] Request finished in 1.163ms 404 
+2021-03-04 13:20:27.124 +06:00 [INF] Request starting HTTP/2.0 POST https://localhost:44318/graphql application/json 1554
+2021-03-04 13:20:27.125 +06:00 [INF] HTTP POST /graphql responded 404 in 0.0585 ms
+2021-03-04 13:20:27.126 +06:00 [INF] Request finished in 1.0887ms 404 
+2021-03-04 13:20:30.350 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44318/api/graphQl/graph/  
+2021-03-04 13:20:30.352 +06:00 [INF] The file /index.html was not modified
+2021-03-04 13:20:30.353 +06:00 [INF] HTTP GET /api/graphQl/graph/ responded 304 in 1.1594 ms
+2021-03-04 13:20:30.354 +06:00 [INF] Request finished in 4.1858ms 304 text/html
+2021-03-04 13:20:30.380 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44318/api/graphQl/graph/graphql-path.js  
+2021-03-04 13:20:30.381 +06:00 [INF] HTTP GET /api/graphQl/graph/graphql-path.js responded 200 in 1.4011 ms
+2021-03-04 13:20:30.382 +06:00 [INF] Request finished in 2.3981ms 200 application/javascript
+2021-03-04 13:20:30.451 +06:00 [INF] Request starting HTTP/2.0 POST https://localhost:44318/graphql application/json 1765
+2021-03-04 13:20:30.451 +06:00 [INF] HTTP POST /graphql responded 404 in 0.1416 ms
+2021-03-04 13:20:30.453 +06:00 [INF] Request finished in 2.5611ms 404 
+2021-03-04 13:20:30.479 +06:00 [INF] Request starting HTTP/2.0 POST https://localhost:44318/graphql application/json 1554
+2021-03-04 13:20:30.480 +06:00 [INF] HTTP POST /graphql responded 404 in 0.0857 ms
+2021-03-04 13:20:30.481 +06:00 [INF] Request finished in 1.889ms 404 
+2021-03-04 13:21:22.790 +06:00 [INF] User profile is available. Using 'C:\Users\cefalo\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-03-04 13:21:23.025 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44318/api/graphQl/graph/  
+2021-03-04 13:21:23.468 +06:00 [INF] The file /index.html was not modified
+2021-03-04 13:21:23.472 +06:00 [INF] HTTP GET /api/graphQl/graph/ responded 304 in 59.9697 ms
+2021-03-04 13:21:23.506 +06:00 [INF] Request finished in 483.7713ms 304 text/html
+2021-03-04 13:21:23.542 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44318/api/graphQl/graph/graphql-path.js  
+2021-03-04 13:21:23.569 +06:00 [INF] HTTP GET /api/graphQl/graph/graphql-path.js responded 200 in 20.5628 ms
+2021-03-04 13:21:23.574 +06:00 [INF] Request finished in 32.5396ms 200 application/javascript
+2021-03-04 13:21:23.694 +06:00 [INF] Request starting HTTP/2.0 POST https://localhost:44318/graphql application/json 1765
+2021-03-04 13:21:23.701 +06:00 [INF] HTTP POST /graphql responded 404 in 6.5675 ms
+2021-03-04 13:21:23.721 +06:00 [INF] Request finished in 27.8898ms 404 
+2021-03-04 13:21:23.774 +06:00 [INF] Request starting HTTP/2.0 POST https://localhost:44318/graphql application/json 1554
+2021-03-04 13:21:23.774 +06:00 [INF] HTTP POST /graphql responded 404 in 0.0848 ms
+2021-03-04 13:21:23.775 +06:00 [INF] Request finished in 1.2088ms 404 
+2021-03-04 13:28:53.272 +06:00 [FTL] Application startup exception
+System.InvalidOperationException: Unable to resolve service for type 'GraphQL.Server.Transports.AspNetCore.Common.IGraphQLRequestDeserializer' while attempting to activate 'GraphQL.Server.Transports.AspNetCore.GraphQLHttpMiddleware`1[GraphQL.Core.Models.GraphQLDemoSchema]'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass4_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.WebHost.BuildApplication()
+2021-03-04 13:54:30.287 +06:00 [FTL] Application startup exception
+System.InvalidOperationException: Unable to resolve service for type 'GraphQL.Server.Transports.AspNetCore.Common.IGraphQLRequestDeserializer' while attempting to activate 'GraphQL.Server.Transports.AspNetCore.GraphQLHttpMiddleware`1[GraphQL.Core.Models.GraphQLDemoSchema]'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass4_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.WebHost.BuildApplication()
+2021-03-04 14:02:33.415 +06:00 [INF] User profile is available. Using 'C:\Users\cefalo\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-03-04 14:02:33.787 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44318/api/graphQl/graph/  
+2021-03-04 14:02:33.983 +06:00 [INF] HTTP GET /api/graphQl/graph/ responded 404 in 54.2807 ms
+2021-03-04 14:02:34.016 +06:00 [INF] Request finished in 235.054ms 404 
+2021-03-04 14:02:49.933 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44318/api/graphQl/graph/hello  
+2021-03-04 14:02:49.941 +06:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2021-03-04 14:02:49.943 +06:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2021-03-04 14:02:49.943 +06:00 [INF] HTTP GET /api/graphQl/graph/hello responded 405 in 3.6585 ms
+2021-03-04 14:02:49.946 +06:00 [INF] Request finished in 13.5089ms 405 
+2021-03-04 14:02:53.691 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44318/api/graphQl/graph/  
+2021-03-04 14:02:53.706 +06:00 [INF] HTTP GET /api/graphQl/graph/ responded 404 in 4.0559 ms
+2021-03-04 14:02:53.707 +06:00 [INF] Request finished in 16.5557ms 404 
+2021-03-04 14:03:48.860 +06:00 [INF] User profile is available. Using 'C:\Users\cefalo\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-03-04 14:03:49.089 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44318/api/graphQl/graph/  
+2021-03-04 14:03:50.856 +06:00 [ERR] HTTP GET /api/graphQl/graph/ responded 500 in 1653.0594 ms
+System.InvalidOperationException: Cannot execute request if no query is specified
+   at GraphQL.DocumentExecuter.ExecuteAsync(ExecutionOptions options) in /_/src/GraphQL/Execution/DocumentExecuter.cs:line 54
+   at GraphQL.Server.Internal.DefaultGraphQLExecuter`1.ExecuteAsync(String operationName, String query, Inputs variables, IDictionary`2 context, IServiceProvider requestServices, CancellationToken cancellationToken) in /_/src/Core/Internal/DefaultGraphQLExecuter.cs:line 46
+   at GraphQL.Server.Transports.AspNetCore.GraphQLHttpMiddleware`1.InvokeAsync(HttpContext context) in /_/src/Transports.AspNetCore/GraphQLHttpMiddleware.cs:line 144
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2021-03-04 14:03:50.977 +06:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Cannot execute request if no query is specified
+   at GraphQL.DocumentExecuter.ExecuteAsync(ExecutionOptions options) in /_/src/GraphQL/Execution/DocumentExecuter.cs:line 54
+   at GraphQL.Server.Internal.DefaultGraphQLExecuter`1.ExecuteAsync(String operationName, String query, Inputs variables, IDictionary`2 context, IServiceProvider requestServices, CancellationToken cancellationToken) in /_/src/Core/Internal/DefaultGraphQLExecuter.cs:line 46
+   at GraphQL.Server.Transports.AspNetCore.GraphQLHttpMiddleware`1.InvokeAsync(HttpContext context) in /_/src/Transports.AspNetCore/GraphQLHttpMiddleware.cs:line 144
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-03-04 14:03:51.064 +06:00 [INF] Request finished in 1978.862ms 500 text/html; charset=utf-8
+2021-03-04 14:03:51.301 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44318/favicon.ico  
+2021-03-04 14:03:51.307 +06:00 [INF] HTTP GET /favicon.ico responded 404 in 1.1412 ms
+2021-03-04 14:03:51.310 +06:00 [INF] Request finished in 8.7957ms 404 
+2021-03-04 14:08:50.063 +06:00 [INF] User profile is available. Using 'C:\Users\cefalo\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-03-04 14:08:50.264 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44318/api/graphQl/graph/  
+2021-03-04 14:08:51.462 +06:00 [ERR] HTTP GET /api/graphQl/graph/ responded 500 in 1081.8066 ms
+System.InvalidOperationException: Cannot execute request if no query is specified
+   at GraphQL.DocumentExecuter.ExecuteAsync(ExecutionOptions options) in /_/src/GraphQL/Execution/DocumentExecuter.cs:line 54
+   at GraphQL.Server.Internal.DefaultGraphQLExecuter`1.ExecuteAsync(String operationName, String query, Inputs variables, IDictionary`2 context, IServiceProvider requestServices, CancellationToken cancellationToken) in /_/src/Core/Internal/DefaultGraphQLExecuter.cs:line 46
+   at GraphQL.Server.Transports.AspNetCore.GraphQLHttpMiddleware`1.InvokeAsync(HttpContext context) in /_/src/Transports.AspNetCore/GraphQLHttpMiddleware.cs:line 144
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+2021-03-04 14:08:51.551 +06:00 [ERR] An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Cannot execute request if no query is specified
+   at GraphQL.DocumentExecuter.ExecuteAsync(ExecutionOptions options) in /_/src/GraphQL/Execution/DocumentExecuter.cs:line 54
+   at GraphQL.Server.Internal.DefaultGraphQLExecuter`1.ExecuteAsync(String operationName, String query, Inputs variables, IDictionary`2 context, IServiceProvider requestServices, CancellationToken cancellationToken) in /_/src/Core/Internal/DefaultGraphQLExecuter.cs:line 46
+   at GraphQL.Server.Transports.AspNetCore.GraphQLHttpMiddleware`1.InvokeAsync(HttpContext context) in /_/src/Transports.AspNetCore/GraphQLHttpMiddleware.cs:line 144
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Serilog.AspNetCore.RequestLoggingMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2021-03-04 14:08:51.626 +06:00 [INF] Request finished in 1364.7788ms 500 text/html; charset=utf-8
+2021-03-04 14:09:42.023 +06:00 [FTL] Application startup exception
+System.InvalidOperationException: Unable to resolve service for type 'GraphQL.Server.Transports.AspNetCore.Common.IGraphQLRequestDeserializer' while attempting to activate 'GraphQL.Server.Transports.AspNetCore.GraphQLHttpMiddleware`1[GraphQL.Core.Models.GraphQLDemoSchema]'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass4_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.WebHost.BuildApplication()
+2021-03-04 14:10:52.534 +06:00 [FTL] Application startup exception
+System.InvalidOperationException: Unable to resolve service for type 'GraphQL.Server.Transports.AspNetCore.Common.IGraphQLRequestDeserializer' while attempting to activate 'GraphQL.Server.Transports.AspNetCore.GraphQLHttpMiddleware`1[GraphQL.Core.Models.GraphQLDemoSchema]'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass4_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.WebHost.BuildApplication()
+2021-03-04 14:12:02.485 +06:00 [FTL] Application startup exception
+System.InvalidOperationException: Unable to resolve service for type 'GraphQL.Server.Transports.AspNetCore.Common.IGraphQLRequestDeserializer' while attempting to activate 'GraphQL.Server.Transports.AspNetCore.GraphQLHttpMiddleware`1[GraphQL.Core.Models.GraphQLDemoSchema]'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass4_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.WebHost.BuildApplication()
+2021-03-04 14:12:40.666 +06:00 [FTL] Application startup exception
+System.InvalidOperationException: Unable to resolve service for type 'GraphQL.Server.Transports.AspNetCore.Common.IGraphQLRequestDeserializer' while attempting to activate 'GraphQL.Server.Transports.AspNetCore.GraphQLHttpMiddleware`1[GraphQL.Core.Models.GraphQLDemoSchema]'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass4_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.WebHost.BuildApplication()
+2021-03-04 14:13:58.096 +06:00 [INF] User profile is available. Using 'C:\Users\cefalo\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-03-04 14:13:58.356 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44318/api/graphQl/graph/  
+2021-03-04 14:13:58.509 +06:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2021-03-04 14:13:58.510 +06:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2021-03-04 14:13:58.514 +06:00 [INF] HTTP GET /api/graphQl/graph/ responded 405 in 6.5148 ms
+2021-03-04 14:13:58.562 +06:00 [INF] Request finished in 208.793ms 405 
+2021-03-04 14:14:01.146 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44318/api/graphQl/graph/  
+2021-03-04 14:14:01.154 +06:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2021-03-04 14:14:01.155 +06:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2021-03-04 14:14:01.155 +06:00 [INF] HTTP GET /api/graphQl/graph/ responded 405 in 2.2168 ms
+2021-03-04 14:14:01.157 +06:00 [INF] Request finished in 11.2373ms 405 
+2021-03-04 14:14:03.415 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44318/api/graphQl/graph/  
+2021-03-04 14:14:03.446 +06:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2021-03-04 14:14:03.447 +06:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2021-03-04 14:14:03.450 +06:00 [INF] HTTP GET /api/graphQl/graph/ responded 405 in 4.2161 ms
+2021-03-04 14:14:03.453 +06:00 [INF] Request finished in 38.7956ms 405 
+2021-03-04 14:14:38.090 +06:00 [INF] User profile is available. Using 'C:\Users\cefalo\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-03-04 14:14:38.340 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44318/api/graphQl/graph/  
+2021-03-04 14:14:38.455 +06:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2021-03-04 14:14:38.456 +06:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2021-03-04 14:14:38.459 +06:00 [INF] HTTP GET /api/graphQl/graph/ responded 405 in 5.2508 ms
+2021-03-04 14:14:38.491 +06:00 [INF] Request finished in 154.2563ms 405 
+2021-03-04 14:46:51.656 +06:00 [INF] User profile is available. Using 'C:\Users\cefalo\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-03-04 14:46:51.862 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44318/api/graphQl/graph/  
+2021-03-04 14:46:51.980 +06:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2021-03-04 14:46:51.981 +06:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2021-03-04 14:46:51.983 +06:00 [INF] HTTP GET /api/graphQl/graph/ responded 405 in 4.7328 ms
+2021-03-04 14:46:52.014 +06:00 [INF] Request finished in 154.135ms 405 
+2021-03-04 14:47:15.400 +06:00 [INF] Request starting HTTP/1.1 GET https://localhost:44318/api/graphQl/graph/  0
+2021-03-04 14:47:15.404 +06:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2021-03-04 14:47:15.404 +06:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2021-03-04 14:47:15.404 +06:00 [INF] HTTP GET /api/graphQl/graph/ responded 405 in 0.5033 ms
+2021-03-04 14:47:15.406 +06:00 [INF] Request finished in 10.0071ms 405 
+2021-03-04 14:47:27.138 +06:00 [INF] Request starting HTTP/1.1 GET https://localhost:44318/api/graphQl/graph/  0
+2021-03-04 14:47:27.168 +06:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2021-03-04 14:47:27.171 +06:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2021-03-04 14:47:27.172 +06:00 [INF] HTTP GET /api/graphQl/graph/ responded 405 in 4.3947 ms
+2021-03-04 14:47:27.173 +06:00 [INF] Request finished in 35.806ms 405 
+2021-03-04 14:47:28.320 +06:00 [INF] Request starting HTTP/1.1 GET https://localhost:44318/api/graphQl/graph/  0
+2021-03-04 14:47:28.324 +06:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2021-03-04 14:47:28.325 +06:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2021-03-04 14:47:28.326 +06:00 [INF] HTTP GET /api/graphQl/graph/ responded 405 in 2.6291 ms
+2021-03-04 14:47:28.329 +06:00 [INF] Request finished in 8.8509ms 405 
+2021-03-04 14:50:24.893 +06:00 [INF] User profile is available. Using 'C:\Users\cefalo\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-03-04 14:50:25.116 +06:00 [INF] Request starting HTTP/1.1 GET https://localhost:44318/api/graphQl/graph/  0
+2021-03-04 14:50:25.223 +06:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2021-03-04 14:50:25.224 +06:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2021-03-04 14:50:25.227 +06:00 [INF] HTTP GET /api/graphQl/graph/ responded 405 in 3.3205 ms
+2021-03-04 14:50:25.257 +06:00 [INF] Request finished in 143.9083ms 405 
+2021-03-04 14:53:56.428 +06:00 [FTL] Application startup exception
+System.InvalidOperationException: Unable to resolve service for type 'GraphQL.Server.Transports.AspNetCore.Common.IGraphQLRequestDeserializer' while attempting to activate 'GraphQL.Server.Transports.AspNetCore.GraphQLHttpMiddleware`1[GraphQL.Core.Models.GraphQLDemoSchema]'.
+   at Microsoft.Extensions.Internal.ActivatorUtilities.ConstructorMatcher.CreateInstance(IServiceProvider provider)
+   at Microsoft.Extensions.Internal.ActivatorUtilities.CreateInstance(IServiceProvider provider, Type instanceType, Object[] parameters)
+   at Microsoft.AspNetCore.Builder.UseMiddlewareExtensions.<>c__DisplayClass4_0.<UseMiddleware>b__0(RequestDelegate next)
+   at Microsoft.AspNetCore.Builder.ApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Hosting.WebHost.BuildApplication()
+2021-03-04 15:05:52.871 +06:00 [INF] User profile is available. Using 'C:\Users\cefalo\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-03-04 15:05:53.104 +06:00 [INF] Request starting HTTP/1.1 GET https://localhost:44318/api/graphQl/graph/  0
+2021-03-04 15:05:53.214 +06:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2021-03-04 15:05:53.215 +06:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2021-03-04 15:05:53.217 +06:00 [INF] HTTP GET /api/graphQl/graph/ responded 405 in 3.7081 ms
+2021-03-04 15:05:53.249 +06:00 [INF] Request finished in 150.2212ms 405 
+2021-03-04 15:06:50.735 +06:00 [INF] Request starting HTTP/1.1 GET https://localhost:44318/api/graphQl/graph  0
+2021-03-04 15:06:50.741 +06:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2021-03-04 15:06:50.741 +06:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2021-03-04 15:06:50.742 +06:00 [INF] HTTP GET /api/graphQl/graph responded 405 in 1.0218 ms
+2021-03-04 15:06:50.745 +06:00 [INF] Request finished in 11.0517ms 405 
+2021-03-04 15:07:02.077 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44318/api/graphql/graph  
+2021-03-04 15:07:02.085 +06:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2021-03-04 15:07:02.086 +06:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2021-03-04 15:07:02.086 +06:00 [INF] HTTP GET /api/graphql/graph responded 405 in 0.5894 ms
+2021-03-04 15:07:02.088 +06:00 [INF] Request finished in 11.2252ms 405 
+2021-03-04 15:14:57.042 +06:00 [INF] User profile is available. Using 'C:\Users\cefalo\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-03-04 15:14:57.276 +06:00 [INF] Request starting HTTP/1.1 GET https://localhost:44318/api/graphQl/graph/  0
+2021-03-04 15:14:57.397 +06:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2021-03-04 15:14:57.398 +06:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2021-03-04 15:14:57.401 +06:00 [INF] HTTP GET /api/graphQl/graph/ responded 405 in 4.8385 ms
+2021-03-04 15:14:57.434 +06:00 [INF] Request finished in 162.9991ms 405 
+2021-03-04 15:15:28.233 +06:00 [INF] Request starting HTTP/1.1 GET https://localhost:44318/api/graphQl/graph  0
+2021-03-04 15:15:28.239 +06:00 [INF] Executing endpoint '405 HTTP Method Not Supported'
+2021-03-04 15:15:28.240 +06:00 [INF] Executed endpoint '405 HTTP Method Not Supported'
+2021-03-04 15:15:28.240 +06:00 [INF] HTTP GET /api/graphQl/graph responded 405 in 1.0544 ms
+2021-03-04 15:15:28.242 +06:00 [INF] Request finished in 34.982ms 405 
+2021-03-04 15:15:32.366 +06:00 [INF] Request starting HTTP/1.1 GET https://localhost:44318/api/graphQl/graph/ui/playground  0
+2021-03-04 15:15:32.426 +06:00 [INF] HTTP GET /api/graphQl/graph/ui/playground responded 404 in 33.4756 ms
+2021-03-04 15:15:32.427 +06:00 [INF] Request finished in 61.0815ms 404 
+2021-03-04 15:15:37.472 +06:00 [INF] Request starting HTTP/1.1 GET https://localhost:44318/api/graphQl/ui/playground  0
+2021-03-04 15:15:37.475 +06:00 [INF] HTTP GET /api/graphQl/ui/playground responded 404 in 0.4040 ms
+2021-03-04 15:15:37.479 +06:00 [INF] Request finished in 4.4913ms 404 
+2021-03-04 15:27:43.856 +06:00 [INF] User profile is available. Using 'C:\Users\cefalo\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-03-04 15:27:44.132 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:56318/  
+2021-03-04 15:27:44.261 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44318/  
+2021-03-04 15:27:44.286 +06:00 [INF] Request finished in 159.0558ms 307 
+2021-03-04 15:27:44.386 +06:00 [INF] HTTP GET / responded 404 in 41.8077 ms
+2021-03-04 15:27:44.389 +06:00 [INF] Request finished in 127.6978ms 404 
+2021-03-04 15:28:15.415 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:56318/ui/playground  
+2021-03-04 15:28:15.450 +06:00 [INF] Request finished in 40.3595ms 307 
+2021-03-04 15:28:15.452 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44318/ui/playground  
+2021-03-04 15:28:15.461 +06:00 [INF] HTTP GET /ui/playground responded 404 in 2.6627 ms
+2021-03-04 15:28:15.464 +06:00 [INF] Request finished in 13.1408ms 404 

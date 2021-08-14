@@ -1,0 +1,258 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\cefalo\\Source\\Repos\\GraphQLWithOcelot\\Microservices\\GraphQL\\GraphQL.Core\\GraphQL.Core.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\cefalo\\Source\\Repos\\GraphQLWithOcelot\\Framework\\Framework.Constants\\Framework.Constants.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cefalo\\Source\\Repos\\GraphQLWithOcelot\\Framework\\Framework.Constants\\Framework.Constants.csproj",
+        "projectName": "Framework.Constants",
+        "projectPath": "C:\\Users\\cefalo\\Source\\Repos\\GraphQLWithOcelot\\Framework\\Framework.Constants\\Framework.Constants.csproj",
+        "packagesPath": "C:\\Users\\cefalo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cefalo\\Source\\Repos\\GraphQLWithOcelot\\Framework\\Framework.Constants\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cefalo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\NuGet.Local": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\cefalo\\Source\\Repos\\GraphQLWithOcelot\\Framework\\Framework.Core\\Framework.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cefalo\\Source\\Repos\\GraphQLWithOcelot\\Framework\\Framework.Core\\Framework.Core.csproj",
+        "projectName": "Framework.Core",
+        "projectPath": "C:\\Users\\cefalo\\Source\\Repos\\GraphQLWithOcelot\\Framework\\Framework.Core\\Framework.Core.csproj",
+        "packagesPath": "C:\\Users\\cefalo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cefalo\\Source\\Repos\\GraphQLWithOcelot\\Framework\\Framework.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cefalo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\NuGet.Local": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\cefalo\\Source\\Repos\\GraphQLWithOcelot\\Framework\\Framework.Constants\\Framework.Constants.csproj": {
+                "projectPath": "C:\\Users\\cefalo\\Source\\Repos\\GraphQLWithOcelot\\Framework\\Framework.Constants\\Framework.Constants.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "CSharpFunctionalExtensions": {
+              "target": "Package",
+              "version": "[2.12.0, )"
+            },
+            "Flurl.Http": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "GraphQL": {
+              "target": "Package",
+              "version": "[3.3.2, )"
+            },
+            "JsonNet.ContractResolvers": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "MicroOrm.Dapper.Repositories": {
+              "target": "Package",
+              "version": "[1.15.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[4.1.1, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            },
+            "Ocelot": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Ocelot.Cache.CacheManager": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            },
+            "Unity": {
+              "target": "Package",
+              "version": "[5.11.7, )"
+            },
+            "Unity.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[5.11.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\cefalo\\Source\\Repos\\GraphQLWithOcelot\\Microservices\\GraphQL\\GraphQL.Core\\GraphQL.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cefalo\\Source\\Repos\\GraphQLWithOcelot\\Microservices\\GraphQL\\GraphQL.Core\\GraphQL.Core.csproj",
+        "projectName": "GraphQL.Core",
+        "projectPath": "C:\\Users\\cefalo\\Source\\Repos\\GraphQLWithOcelot\\Microservices\\GraphQL\\GraphQL.Core\\GraphQL.Core.csproj",
+        "packagesPath": "C:\\Users\\cefalo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cefalo\\Source\\Repos\\GraphQLWithOcelot\\Microservices\\GraphQL\\GraphQL.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\cefalo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\NuGet.Local": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\cefalo\\Source\\Repos\\GraphQLWithOcelot\\Framework\\Framework.Core\\Framework.Core.csproj": {
+                "projectPath": "C:\\Users\\cefalo\\Source\\Repos\\GraphQLWithOcelot\\Framework\\Framework.Core\\Framework.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "GraphQL.Server.Transports.AspNetCore": {
+              "target": "Package",
+              "version": "[4.4.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

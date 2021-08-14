@@ -1,0 +1,16 @@
+C:\Users\cefalo\Source\Repos\GraphQLWithOcelot\Microservices\Normal\Normal.Core\obj\Debug\netcoreapp3.1\Normal.Core.csprojAssemblyReference.cache
+C:\Users\cefalo\Source\Repos\GraphQLWithOcelot\Microservices\Normal\Normal.Core\obj\Debug\netcoreapp3.1\Normal.Core.AssemblyInfoInputs.cache
+C:\Users\cefalo\Source\Repos\GraphQLWithOcelot\Microservices\Normal\Normal.Core\obj\Debug\netcoreapp3.1\Normal.Core.AssemblyInfo.cs
+C:\Users\cefalo\Source\Repos\GraphQLWithOcelot\Microservices\Normal\Normal.Core\obj\Debug\netcoreapp3.1\Normal.Core.csproj.CoreCompileInputs.cache
+C:\Users\cefalo\Source\Repos\GraphQLWithOcelot\Microservices\Normal\Normal.Core\bin\Debug\netcoreapp3.1\Normal.Core.deps.json
+C:\Users\cefalo\Source\Repos\GraphQLWithOcelot\Microservices\Normal\Normal.Core\bin\Debug\netcoreapp3.1\Normal.Core.dll
+C:\Users\cefalo\Source\Repos\GraphQLWithOcelot\Microservices\Normal\Normal.Core\bin\Debug\netcoreapp3.1\Normal.Core.pdb
+C:\Users\cefalo\Source\Repos\GraphQLWithOcelot\Microservices\Normal\Normal.Core\bin\Debug\netcoreapp3.1\Framework.Constants.dll
+C:\Users\cefalo\Source\Repos\GraphQLWithOcelot\Microservices\Normal\Normal.Core\bin\Debug\netcoreapp3.1\Framework.Core.dll
+C:\Users\cefalo\Source\Repos\GraphQLWithOcelot\Microservices\Normal\Normal.Core\bin\Debug\netcoreapp3.1\System.Reactive.dll
+C:\Users\cefalo\Source\Repos\GraphQLWithOcelot\Microservices\Normal\Normal.Core\bin\Debug\netcoreapp3.1\Framework.Core.pdb
+C:\Users\cefalo\Source\Repos\GraphQLWithOcelot\Microservices\Normal\Normal.Core\bin\Debug\netcoreapp3.1\Framework.Constants.pdb
+C:\Users\cefalo\Source\Repos\GraphQLWithOcelot\Microservices\Normal\Normal.Core\bin\Debug\netcoreapp3.1\System.Reactive.xml
+C:\Users\cefalo\Source\Repos\GraphQLWithOcelot\Microservices\Normal\Normal.Core\obj\Debug\netcoreapp3.1\Normal.Core.csproj.CopyComplete
+C:\Users\cefalo\Source\Repos\GraphQLWithOcelot\Microservices\Normal\Normal.Core\obj\Debug\netcoreapp3.1\Normal.Core.dll
+C:\Users\cefalo\Source\Repos\GraphQLWithOcelot\Microservices\Normal\Normal.Core\obj\Debug\netcoreapp3.1\Normal.Core.pdb

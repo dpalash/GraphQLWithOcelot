@@ -1,0 +1,48 @@
+2020-11-06 22:34:21.983 +06:00 [INF] User profile is available. Using 'C:\Users\cefalo\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-11-06 22:34:26.611 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44327/api/flightAction  
+2020-11-06 22:34:27.575 +06:00 [INF] HTTP GET /api/flightAction responded 404 in 272.3025 ms
+2020-11-06 22:34:28.698 +06:00 [INF] Request finished in 2105.0048ms 404 
+2020-11-06 22:39:30.608 +06:00 [INF] User profile is available. Using 'C:\Users\cefalo\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-11-06 22:39:31.167 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44327/api/flightAction  
+2020-11-06 22:39:31.353 +06:00 [INF] HTTP GET /api/flightAction responded 404 in 76.6022 ms
+2020-11-06 22:39:31.418 +06:00 [INF] Request finished in 260.9712ms 404 
+2020-11-06 22:39:53.705 +06:00 [INF] Request starting HTTP/1.1 POST https://localhost:44327/api/flightAction/uploadFile application/json-patch+json; charset=utf-8 117424
+2020-11-06 22:39:53.727 +06:00 [INF] Executing endpoint 'FlightActionWebApi.Controllers.FileUploadController.UploadFileAsync (FlightActionWebApi)'
+2020-11-06 22:39:53.830 +06:00 [INF] Route matched with {action = "UploadFile", controller = "FileUpload"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UploadFileAsync(FlightAction.Core.DTOs.FileUploadDTO) on controller FlightActionWebApi.Controllers.FileUploadController (FlightActionWebApi).
+2020-11-06 22:43:38.094 +06:00 [INF] User profile is available. Using 'C:\Users\cefalo\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-11-06 22:43:38.592 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44327/api/flightAction  
+2020-11-06 22:43:38.780 +06:00 [INF] HTTP GET /api/flightAction responded 404 in 65.4797 ms
+2020-11-06 22:43:38.837 +06:00 [INF] Request finished in 258.2309ms 404 
+2020-11-06 22:44:34.220 +06:00 [INF] Request starting HTTP/1.1 POST https://localhost:44327/api/flightAction/uploadFile application/json-patch+json; charset=utf-8 117424
+2020-11-06 22:44:34.243 +06:00 [INF] Executing endpoint 'FlightActionWebApi.Controllers.FileUploadController.UploadFileAsync (FlightActionWebApi)'
+2020-11-06 22:44:34.326 +06:00 [INF] Route matched with {action = "UploadFile", controller = "FileUpload"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UploadFileAsync(FlightAction.Core.DTOs.FileUploadDTO) on controller FlightActionWebApi.Controllers.FileUploadController (FlightActionWebApi).
+2020-11-06 22:45:57.426 +06:00 [ERR] An error occurred while uploading and processing the file. Error: Value cannot be null. (Parameter 'path1')
+2020-11-06 22:45:57.435 +06:00 [INF] Executing ObjectResult, writing value of type 'System.Boolean'.
+2020-11-06 22:45:57.465 +06:00 [INF] Executed action FlightActionWebApi.Controllers.FileUploadController.UploadFileAsync (FlightActionWebApi) in 83131.5924ms
+2020-11-06 22:45:57.466 +06:00 [INF] Executed endpoint 'FlightActionWebApi.Controllers.FileUploadController.UploadFileAsync (FlightActionWebApi)'
+2020-11-06 22:45:57.467 +06:00 [INF] HTTP POST /api/flightAction/uploadFile responded 200 in 83224.3718 ms
+2020-11-06 22:45:57.468 +06:00 [INF] Request finished in 83256.3111ms 200 application/json; charset=utf-8
+2020-11-06 22:46:03.335 +06:00 [INF] Request starting HTTP/1.1 POST https://localhost:44327/api/flightAction/uploadFile application/json-patch+json; charset=utf-8 117420
+2020-11-06 22:46:03.340 +06:00 [INF] Executing endpoint 'FlightActionWebApi.Controllers.FileUploadController.UploadFileAsync (FlightActionWebApi)'
+2020-11-06 22:46:03.342 +06:00 [INF] Route matched with {action = "UploadFile", controller = "FileUpload"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UploadFileAsync(FlightAction.Core.DTOs.FileUploadDTO) on controller FlightActionWebApi.Controllers.FileUploadController (FlightActionWebApi).
+2020-11-06 22:52:58.837 +06:00 [INF] User profile is available. Using 'C:\Users\cefalo\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-11-06 22:52:59.772 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44327/api/flightAction  
+2020-11-06 22:53:00.019 +06:00 [INF] HTTP GET /api/flightAction responded 404 in 72.4750 ms
+2020-11-06 22:53:00.107 +06:00 [INF] Request finished in 361.3221ms 404 
+2020-11-06 22:54:07.793 +06:00 [INF] Request starting HTTP/1.1 POST https://localhost:44327/api/flightAction/uploadFile application/json-patch+json; charset=utf-8 117406
+2020-11-06 22:54:07.807 +06:00 [INF] Executing endpoint 'FlightActionWebApi.Controllers.FileUploadController.UploadFileAsync (FlightActionWebApi)'
+2020-11-06 22:54:07.883 +06:00 [INF] Route matched with {action = "UploadFile", controller = "FileUpload"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UploadFileAsync(FlightAction.Core.DTOs.FileUploadDTO) on controller FlightActionWebApi.Controllers.FileUploadController (FlightActionWebApi).
+2020-11-06 22:55:55.960 +06:00 [INF] User profile is available. Using 'C:\Users\cefalo\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-11-06 22:55:56.514 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44327/api/flightAction  
+2020-11-06 22:55:56.667 +06:00 [INF] HTTP GET /api/flightAction responded 404 in 50.4009 ms
+2020-11-06 22:55:56.713 +06:00 [INF] Request finished in 211.0206ms 404 
+2020-11-06 22:56:13.550 +06:00 [INF] Request starting HTTP/1.1 POST https://localhost:44327/api/flightAction/uploadFile application/json-patch+json; charset=utf-8 117406
+2020-11-06 22:56:13.567 +06:00 [INF] Executing endpoint 'FlightActionWebApi.Controllers.FileUploadController.UploadFileAsync (FlightActionWebApi)'
+2020-11-06 22:56:13.630 +06:00 [INF] Route matched with {action = "UploadFile", controller = "FileUpload"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UploadFileAsync(FlightAction.Core.DTOs.FileUploadDTO) on controller FlightActionWebApi.Controllers.FileUploadController (FlightActionWebApi).
+2020-11-06 23:40:26.998 +06:00 [INF] User profile is available. Using 'C:\Users\cefalo\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2020-11-06 23:40:27.572 +06:00 [INF] Request starting HTTP/2.0 GET https://localhost:44327/api/flightAction  
+2020-11-06 23:40:28.051 +06:00 [INF] HTTP GET /api/flightAction responded 404 in 278.8085 ms
+2020-11-06 23:40:28.263 +06:00 [INF] Request finished in 691.8454ms 404 
+2020-11-06 23:44:10.189 +06:00 [INF] Request starting HTTP/1.1 POST https://localhost:44327/api/flightAction/uploadFile application/json-patch+json; charset=utf-8 117406
+2020-11-06 23:44:10.216 +06:00 [INF] Executing endpoint 'FlightActionWebApi.Controllers.FileUploadController.UploadFileAsync (FlightActionWebApi)'
+2020-11-06 23:44:10.358 +06:00 [INF] Route matched with {action = "UploadFile", controller = "FileUpload"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] UploadFileAsync(FlightAction.Core.DTOs.FileUploadDTO) on controller FlightActionWebApi.Controllers.FileUploadController (FlightActionWebApi).

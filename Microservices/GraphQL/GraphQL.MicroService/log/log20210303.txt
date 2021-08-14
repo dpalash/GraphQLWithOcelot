@@ -1,0 +1,13 @@
+2021-03-03 18:50:34.776 +06:00 [INF] User profile is available. Using 'C:\Users\cefalo\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-03-03 18:50:35.166 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:56301/swagger  
+2021-03-03 18:50:35.733 +06:00 [INF] Request finished in 570.7441ms 307 
+2021-03-03 18:52:23.658 +06:00 [INF] User profile is available. Using 'C:\Users\cefalo\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-03-03 18:52:23.900 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:56301/swagger  
+2021-03-03 18:52:24.008 +06:00 [INF] Request finished in 104.9211ms 307 
+2021-03-03 18:53:29.734 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:56301/api/graphQl/normal/sayHello  
+2021-03-03 18:53:29.741 +06:00 [INF] Request finished in 6.8199ms 307 
+2021-03-03 19:04:34.605 +06:00 [INF] User profile is available. Using 'C:\Users\cefalo\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-03-03 19:04:34.829 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:56301/swagger  
+2021-03-03 19:04:34.939 +06:00 [INF] Request finished in 112.475ms 307 
+2021-03-03 19:04:45.491 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:56301/swagger  
+2021-03-03 19:04:45.500 +06:00 [INF] Request finished in 7.8986ms 307 

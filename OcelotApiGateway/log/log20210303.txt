@@ -1,0 +1,18 @@
+2021-03-03 17:39:17.880 +06:00 [FTL] Application startup exception
+System.ArgumentException: The path in 'value' must start with '/'. (Parameter 'value')
+   at Microsoft.AspNetCore.Http.PathString..ctor(String value)
+   at Microsoft.AspNetCore.Http.PathString.op_Implicit(String s)
+   at GraphiQl.GraphiQlExtensions.UseGraphiQlImp(IApplicationBuilder app, String path, String apiPath)
+   at GraphiQl.GraphiQlExtensions.UseGraphiQl(IApplicationBuilder app, String path, String apiPath)
+   at GraphiQl.GraphiQlExtensions.UseGraphiQl(IApplicationBuilder app, String path)
+   at GraphQL.MicroService.Startup.Configure(IApplicationBuilder app, IWebHostEnvironment env) in C:\Users\cefalo\Source\Repos\GraphQLWithOcelot\Microservices\GraphQL\GraphQL.MicroService\Startup.cs:line 61
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor, Boolean wrapExceptions)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at Microsoft.AspNetCore.Hosting.ConfigureBuilder.Invoke(Object instance, IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.ConfigureBuilder.<>c__DisplayClass4_0.<Build>b__0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Hosting.ConventionBasedStartup.Configure(IApplicationBuilder app)
+   at Microsoft.Extensions.DependencyInjection.AutoRegisterMiddleware.<>c__DisplayClass4_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Mvc.Filters.MiddlewareFilterBuilderStartupFilter.<>c__DisplayClass0_0.<Configure>g__MiddlewareFilterBuilder|0(IApplicationBuilder builder)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISServerSetupFilter.<>c__DisplayClass2_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.HostFilteringStartupFilter.<>c__DisplayClass0_0.<Configure>b__0(IApplicationBuilder app)
+   at Microsoft.AspNetCore.Hosting.WebHost.BuildApplication()

@@ -1,0 +1,48 @@
+2021-03-03 19:22:28.627 +06:00 [INF] User profile is available. Using 'C:\Users\cefalo\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-03-03 19:22:28.850 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:56302/swagger  
+2021-03-03 19:22:29.155 +06:00 [INF] Request finished in 306.7575ms 307 
+2021-03-03 19:22:49.189 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:56302/swagger  
+2021-03-03 19:22:49.202 +06:00 [INF] Request finished in 7.5425ms 307 
+2021-03-03 19:23:05.050 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:56302/swagger  
+2021-03-03 19:23:05.067 +06:00 [INF] Request finished in 17.0581ms 307 
+2021-03-03 19:24:14.737 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:56302/  
+2021-03-03 19:24:14.752 +06:00 [INF] Request finished in 15.0864ms 307 
+2021-03-03 19:28:44.352 +06:00 [INF] User profile is available. Using 'C:\Users\cefalo\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-03-03 19:28:44.677 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:56319/  
+2021-03-03 19:28:44.879 +06:00 [INF] Request finished in 198.9892ms 307 
+2021-03-03 19:28:45.018 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:56319/  
+2021-03-03 19:28:45.021 +06:00 [INF] Request finished in 3.4856ms 307 
+2021-03-03 19:28:45.130 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:56319/  
+2021-03-03 19:28:45.138 +06:00 [INF] Request finished in 7.3526ms 307 
+2021-03-03 19:28:45.259 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:56319/  
+2021-03-03 19:28:45.260 +06:00 [INF] Request finished in 1.1694ms 307 
+2021-03-03 19:28:45.488 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:56319/  
+2021-03-03 19:28:45.493 +06:00 [INF] Request finished in 5.1603ms 307 
+2021-03-03 19:28:45.529 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:56319/  
+2021-03-03 19:28:45.534 +06:00 [INF] Request finished in 4.5523ms 307 
+2021-03-03 19:28:45.657 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:56319/  
+2021-03-03 19:28:45.659 +06:00 [INF] Request finished in 1.6906ms 307 
+2021-03-03 19:28:45.768 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:56319/  
+2021-03-03 19:28:45.770 +06:00 [INF] Request finished in 2.0104ms 307 
+2021-03-03 19:28:45.895 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:56319/  
+2021-03-03 19:28:45.899 +06:00 [INF] Request finished in 4.0988ms 307 
+2021-03-03 19:28:46.018 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:56319/  
+2021-03-03 19:28:46.022 +06:00 [INF] Request finished in 3.7175ms 307 
+2021-03-03 19:28:46.133 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:56319/  
+2021-03-03 19:28:46.137 +06:00 [INF] Request finished in 3.9388ms 307 
+2021-03-03 19:30:32.255 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:56319/swagger  
+2021-03-03 19:30:32.259 +06:00 [INF] Request finished in 4.0092ms 307 
+2021-03-03 19:30:45.918 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:56319/swagger  
+2021-03-03 19:30:45.922 +06:00 [INF] Request finished in 4.4962ms 307 
+2021-03-03 19:42:38.202 +06:00 [INF] User profile is available. Using 'C:\Users\cefalo\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-03-03 19:42:38.399 +06:00 [INF] Request starting HTTP/1.1 GET http://localhost:56319/swagger  
+2021-03-03 19:42:38.704 +06:00 [INF] Request finished in 306.3777ms 307 
+2021-03-03 19:50:42.884 +06:00 [INF] User profile is available. Using 'C:\Users\cefalo\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-03-03 19:50:43.120 +06:00 [INF] Request starting HTTP/1.1 GET https://localhost:44319/api/normal/say/hello  0
+2021-03-03 19:50:43.235 +06:00 [INF] Executing endpoint 'Normal.MicroService.Controllers.FileUploadController.Hello (Normal.MicroService)'
+2021-03-03 19:50:43.282 +06:00 [INF] Route matched with {action = "Hello", controller = "FileUpload"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Hello() on controller Normal.MicroService.Controllers.FileUploadController (Normal.MicroService).
+2021-03-03 19:50:44.706 +06:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-03-03 19:50:44.739 +06:00 [INF] Executed action Normal.MicroService.Controllers.FileUploadController.Hello (Normal.MicroService) in 1451.5141ms
+2021-03-03 19:50:44.741 +06:00 [INF] Executed endpoint 'Normal.MicroService.Controllers.FileUploadController.Hello (Normal.MicroService)'
+2021-03-03 19:50:44.744 +06:00 [INF] HTTP GET /api/normal/say/hello responded 200 in 1509.6747 ms
+2021-03-03 19:50:44.747 +06:00 [INF] Request finished in 1632.7165ms 200 text/plain; charset=utf-8

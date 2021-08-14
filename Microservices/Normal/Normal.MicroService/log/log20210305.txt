@@ -1,0 +1,29 @@
+2021-03-05 11:23:38.306 +06:00 [INF] User profile is available. Using 'C:\Users\cefalo\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-03-05 11:23:38.511 +06:00 [INF] Request starting HTTP/1.1 GET https://localhost:44319/api/normal/hello  0
+2021-03-05 11:23:38.808 +06:00 [INF] HTTP GET /api/normal/hello responded 404 in 31.7021 ms
+2021-03-05 11:23:38.836 +06:00 [INF] Request finished in 328.1086ms 404 
+2021-03-05 11:23:53.471 +06:00 [INF] Request starting HTTP/1.1 GET https://localhost:44319/api/normal/say/hello  0
+2021-03-05 11:23:53.494 +06:00 [INF] Executing endpoint 'Normal.MicroService.Controllers.FileUploadController.Hello (Normal.MicroService)'
+2021-03-05 11:23:53.551 +06:00 [INF] Route matched with {action = "Hello", controller = "FileUpload"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Hello() on controller Normal.MicroService.Controllers.FileUploadController (Normal.MicroService).
+2021-03-05 11:23:53.686 +06:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-03-05 11:23:53.704 +06:00 [INF] Executed action Normal.MicroService.Controllers.FileUploadController.Hello (Normal.MicroService) in 146.0186ms
+2021-03-05 11:23:53.704 +06:00 [INF] Executed endpoint 'Normal.MicroService.Controllers.FileUploadController.Hello (Normal.MicroService)'
+2021-03-05 11:23:53.704 +06:00 [INF] HTTP GET /api/normal/say/hello responded 200 in 210.5088 ms
+2021-03-05 11:23:53.706 +06:00 [INF] Request finished in 235.5492ms 200 text/plain; charset=utf-8
+2021-03-05 11:26:09.853 +06:00 [INF] User profile is available. Using 'C:\Users\cefalo\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2021-03-05 11:26:10.027 +06:00 [INF] Request starting HTTP/1.1 GET https://localhost:44319/api/normal/say/hello  0
+2021-03-05 11:26:10.142 +06:00 [INF] Executing endpoint 'Normal.MicroService.Controllers.FileUploadController.Hello (Normal.MicroService)'
+2021-03-05 11:26:10.177 +06:00 [INF] Route matched with {action = "Hello", controller = "FileUpload"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Hello() on controller Normal.MicroService.Controllers.FileUploadController (Normal.MicroService).
+2021-03-05 11:26:10.237 +06:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-03-05 11:26:10.265 +06:00 [INF] Executed action Normal.MicroService.Controllers.FileUploadController.Hello (Normal.MicroService) in 84.2336ms
+2021-03-05 11:26:10.269 +06:00 [INF] Executed endpoint 'Normal.MicroService.Controllers.FileUploadController.Hello (Normal.MicroService)'
+2021-03-05 11:26:10.272 +06:00 [INF] HTTP GET /api/normal/say/hello responded 200 in 130.6112 ms
+2021-03-05 11:26:10.278 +06:00 [INF] Request finished in 252.5762ms 200 text/plain; charset=utf-8
+2021-03-05 11:26:11.669 +06:00 [INF] Request starting HTTP/1.1 GET https://localhost:44319/api/normal/say/hello  0
+2021-03-05 11:26:11.674 +06:00 [INF] Executing endpoint 'Normal.MicroService.Controllers.FileUploadController.Hello (Normal.MicroService)'
+2021-03-05 11:26:11.678 +06:00 [INF] Route matched with {action = "Hello", controller = "FileUpload"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.IActionResult] Hello() on controller Normal.MicroService.Controllers.FileUploadController (Normal.MicroService).
+2021-03-05 11:26:11.679 +06:00 [INF] Executing ObjectResult, writing value of type 'System.String'.
+2021-03-05 11:26:11.680 +06:00 [INF] Executed action Normal.MicroService.Controllers.FileUploadController.Hello (Normal.MicroService) in 2.031ms
+2021-03-05 11:26:11.680 +06:00 [INF] Executed endpoint 'Normal.MicroService.Controllers.FileUploadController.Hello (Normal.MicroService)'
+2021-03-05 11:26:11.681 +06:00 [INF] HTTP GET /api/normal/say/hello responded 200 in 6.9165 ms
+2021-03-05 11:26:11.681 +06:00 [INF] Request finished in 12.3823ms 200 text/plain; charset=utf-8

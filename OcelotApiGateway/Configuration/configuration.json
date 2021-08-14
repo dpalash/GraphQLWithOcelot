@@ -1,0 +1,46 @@
+{
+    "Routes": [
+
+        //GraphQl micro-service config
+        {
+            "DownstreamPathTemplate": "/api/graphQl/{everything}",
+            "DownstreamScheme": "https",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 44318
+                }
+            ],
+            "UpstreamPathTemplate": "/api/graphQl/{everything}",
+            "UpstreamHttpMethod": [
+                "GET",
+                "POST",
+                "PUT",
+                "DELETE"
+            ]
+        },
+
+        //Normal micro-service config
+        {
+            "DownstreamPathTemplate": "/api/normal/{everything}",
+            "DownstreamScheme": "https",
+            "DownstreamHostAndPorts": [
+                {
+                    "Host": "localhost",
+                    "Port": 44319
+                }
+            ],
+            "UpstreamPathTemplate": "/api/normal/{everything}",
+            "UpstreamHttpMethod": [
+                "GET",
+                "POST",
+                "PUT",
+                "DELETE"
+            ]
+        }
+    ],
+
+    "GlobalConfiguration": {
+        "BaseUrl": "https://localhost:44317"
+    }
+}
